@@ -1,2 +1,2 @@
 # sick-fits
-Sick Fits app base on Wes Bos course Advanced React with ReactJS + GraphQL stuff
+Sick Fits app based on Wes Bos course Advanced React with ReactJS + GraphQL stuff
